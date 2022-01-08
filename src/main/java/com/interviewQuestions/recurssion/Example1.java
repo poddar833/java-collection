@@ -3,7 +3,7 @@ package com.interviewQuestions.recurssion;
 public class Example1 {
 
     public static void main(String[] args) {
-        Example1 example1 = new Example1();
+        Example1 example2 = new Example1();
         example1.test();
     }
 
